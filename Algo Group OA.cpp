@@ -1,3 +1,5 @@
+// Answer to Question 2
+// Mechanism: Represents the integer stack with a singly linked list with a pointer to the last integer and an integer tracking the stack's size to make fundamental operations efficient.
 #include <vector>
 #include <iostream>
 using namespace std;
